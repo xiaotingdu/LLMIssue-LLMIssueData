@@ -6,3 +6,4 @@ We collect and manually inspect 591 bug reports from the GitHub repositories of 
 ![image](https://github.com/user-attachments/assets/b73aaf9e-d8ba-4e3b-9412-6bb82adc91c7)
 
 To facilitate replication of our study and prompt future research in this area, we have made our dataset publicly available. Please find the issue information in the following links.
+https://docs.google.com/spreadsheets/d/1Ea1fNprz8ldt5tDnj4V91wKwRu0v0BxQ/edit?usp=drive_link&ouid=103721203812247967297&rtpof=true&sd=true
